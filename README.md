@@ -17,7 +17,7 @@ This project is a Power BI dashboard designed to analyze credit card transaction
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
